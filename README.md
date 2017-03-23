@@ -9,9 +9,3 @@ To use:
          var config = {
           MY_KEY : 'YOUR_API_KEY'
           }
-
-To hide your API Key in your repo: 
-  1. Create a .gitignore file
-  2. In .gitignore write:
-  
-         config.js
